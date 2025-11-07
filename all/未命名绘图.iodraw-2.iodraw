@@ -58,8 +58,8 @@
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-20" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="640" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mTu88Uj4Jhs3I0zorFl6-21" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="450" y="650" width="70" height="40" as="geometry" />
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-21" value="对象存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
