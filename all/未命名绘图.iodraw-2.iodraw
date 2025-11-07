@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mTu88Uj4Jhs3I0zorFl6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mTu88Uj4Jhs3I0zorFl6-1" target="mTu88Uj4Jhs3I0zorFl6-3">
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" edge="1" parent="1" source="mTu88Uj4Jhs3I0zorFl6-1" target="mTu88Uj4Jhs3I0zorFl6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-29" value="用户请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mTu88Uj4Jhs3I0zorFl6-16">
@@ -18,7 +18,7 @@
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mTu88Uj4Jhs3I0zorFl6-3" target="mTu88Uj4Jhs3I0zorFl6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mTu88Uj4Jhs3I0zorFl6-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mTu88Uj4Jhs3I0zorFl6-32">
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-34" value="返回响应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mTu88Uj4Jhs3I0zorFl6-32">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
