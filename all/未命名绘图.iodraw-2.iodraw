@@ -7,17 +7,17 @@
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;表示层&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;gradientDirection=radial;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="10" width="350" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="mTu88Uj4Jhs3I0zorFl6-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;表示层&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;gradientDirection=radial;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-3" value="&lt;div style=&quot;&quot;&gt;应用层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;gradientDirection=radial;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="270" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
           <mxGeometry x="440" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-7" value="Web浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-8" value="Web浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
