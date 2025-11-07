@@ -77,6 +77,11 @@
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;curved=0;strokeWidth=2;" edge="1" parent="1" source="mTu88Uj4Jhs3I0zorFl6-22" target="mTu88Uj4Jhs3I0zorFl6-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mTu88Uj4Jhs3I0zorFl6-36">
+          <mxGeometry x="-0.3687" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-22" value="&lt;div style=&quot;&quot;&gt;基础设施层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;gradientDirection=radial;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="740" width="380" height="200" as="geometry" />
         </mxCell>
