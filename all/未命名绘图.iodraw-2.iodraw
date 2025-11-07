@@ -19,7 +19,7 @@
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-7" value="Web浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTu88Uj4Jhs3I0zorFl6-8" value="Web浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-8" value="Web浏览器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
