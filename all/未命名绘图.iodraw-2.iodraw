@@ -11,7 +11,10 @@
           <mxGeometry x="230" y="280" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="290" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="270" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
