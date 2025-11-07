@@ -8,7 +8,7 @@
           <mxGeometry x="230" y="10" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-3" value="&lt;div style=&quot;&quot;&gt;应用层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;gradientDirection=radial;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="350" height="240" as="geometry" />
+          <mxGeometry x="230" y="290" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
           <mxGeometry x="290" y="60" width="80" height="80" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="290" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
