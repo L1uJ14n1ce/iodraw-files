@@ -52,7 +52,7 @@
           <mxGeometry x="340" y="490" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-17" value="&lt;div style=&quot;&quot;&gt;平台服务层&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;gradientDirection=radial;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="230" y="585" width="380" height="110" as="geometry" />
+          <mxGeometry x="230" y="584.5" width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-18" value="PostgreSQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="70" height="40" as="geometry" />
