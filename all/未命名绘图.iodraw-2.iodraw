@@ -19,11 +19,11 @@
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-7" value="Web浏览器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-8" value="Web浏览器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mTu88Uj4Jhs3I0zorFl6-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="290" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
