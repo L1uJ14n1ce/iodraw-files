@@ -74,7 +74,7 @@
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-21" value="对象存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="530" y="640" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mTu88Uj4Jhs3I0zorFl6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mTu88Uj4Jhs3I0zorFl6-22" target="mTu88Uj4Jhs3I0zorFl6-35">
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" edge="1" parent="1" source="mTu88Uj4Jhs3I0zorFl6-22" target="mTu88Uj4Jhs3I0zorFl6-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-22" value="&lt;div style=&quot;&quot;&gt;基础设施层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;gradientDirection=radial;align=left;verticalAlign=top;" vertex="1" parent="1">
@@ -112,6 +112,9 @@
         </mxCell>
         <mxCell id="mTu88Uj4Jhs3I0zorFl6-40" value="数据同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="840" y="640.25" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mTu88Uj4Jhs3I0zorFl6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.997;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mTu88Uj4Jhs3I0zorFl6-35" target="mTu88Uj4Jhs3I0zorFl6-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
